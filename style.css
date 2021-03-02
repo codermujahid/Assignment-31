@@ -1,0 +1,79 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+/* img{
+    max-width: 100%;
+} */
+
+/* anvbar */
+.meanu{
+    margin-left: 36%;
+}
+
+.meanu {
+
+}
+.slider-section {
+    background: url(./graduation-.jpg) no-repeat center top;
+    background-size: cover;
+    padding: 200px 0;
+     position: relative;
+     z-index: 1;
+
+}
+.slider-section::after{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.452);
+    z-index: -1;
+}
+
+.d-flex {
+
+}
+.bb {
+	margin-left: 263px;
+	margin-top: 52px;
+}
+/* steart-section */
+.steart-section {
+    background: #f7f9ff;
+}
+.contli {
+    margin-top: 10%;
+}
+.contli h4 {
+	font-size: 28px;
+}
+.contli p {
+    margin-top: 30px;
+	font-size: 21px;
+}
+
+/* top populer */
+.total-heart {
+    box-shadow: 3px 3px 15px 7px rgba(19, 18, 18, 0.1);
+    /* border-radius: 10px; */
+}
+
+.im-g img {
+	width: 111%;
+}
+
+.hert {
+	background-color: #fff;
+	padding: 10px 26px;
+     
+}
+.hert h4{
+}
+.hert p{
+}
+/* gird */
+.grid{
+    background-color:#f7f9ff;
+}
